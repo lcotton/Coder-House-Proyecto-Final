@@ -1,0 +1,22 @@
+[
+   {
+      "nombre":"Escuadra",
+      "descripcion":"Escuadra",
+      "codigo":1235,
+      "foto":"https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+      "precio":123.45,
+      "stock":10,
+      "id":1,
+      "timestamp":1636294606961
+   },
+   {
+      "nombre":"Calculadora",
+      "descripcion":"Calculadora",
+      "codigo":23456,
+      "foto":"https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+      "precio":234.56,
+      "stock":10,
+      "id":2,
+      "timestamp":1636665304139
+   }
+]
